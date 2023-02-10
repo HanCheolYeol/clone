@@ -100,3 +100,11 @@
         margin-bottom: 10px;
     }
 }
+
+/* 850 이하 */
+@media screen and (max-width:850px) {
+    #store {
+        display: flex;
+}
+#store>section{}
+}
